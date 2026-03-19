@@ -20,9 +20,9 @@ This repository implements a two-phase pipeline:
 Developed as part of a Bachelor's thesis at TU Wien, Automation and Control 
 Institute (ACIN), February 2026.
 
-## Sources
-https://ahrs.readthedocs.io/en/latest/filters/madgwick.html
-https://github.com/kth-ros-pkg/force_torque_tools
-https://gitlab.com/botasys/legacy/inertial_wrench_compensation_demo
-https://gitlab.com/botasys/legacy/msvc_inertial_wrench_copmesation_library
-https://code.botasys.com/en/gen_a/layer1/payload_utils/payload_utils_py.html
+## References
+- [Madgwick Filter AHRS_Documentation](https://ahrs.readthedocs.io/en/latest/filters/madgwick.html)
+- [Force Torque Tools (KTH)](https://github.com/kth-ros-pkg/force_torque_tools)
+- [Inertial Wrench Compensation Demo (Bota Systems)](https://gitlab.com/botasys/legacy/inertial_wrench_compensation_demo)
+- [MSVC Inertial Wrench Compensation Library (Bota Systems)](https://gitlab.com/botasys/legacy/msvc_inertial_wrench_copmesation_library)
+- [Payload Utils Python (Bota Systems)](https://code.botasys.com/en/gen_a/layer1/payload_utils/payload_utils_py.html)
