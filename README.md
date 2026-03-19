@@ -20,7 +20,7 @@ This repository implements a two-phase pipeline:
 Developed as part of a Bachelor's thesis at TU Wien, Automation and Control 
 Institute (ACIN), February 2026.
 
-## References
+## Sources
 - [Madgwick Filter AHRS_Documentation](https://ahrs.readthedocs.io/en/latest/filters/madgwick.html)
 - [Force Torque Tools (KTH)](https://github.com/kth-ros-pkg/force_torque_tools)
 - [Inertial Wrench Compensation Demo (Bota Systems)](https://gitlab.com/botasys/legacy/inertial_wrench_compensation_demo)
